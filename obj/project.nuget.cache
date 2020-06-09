@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H8cGSdUxTXQqygqUPie3dbROwc0apuQioa/e2Ypag2/hPu/mFTX9lyFSzjGSYwxGIJVHO8k4F71RWfkE7iWrOg==",
+  "success": true,
+  "projectFilePath": "F:\\Desenvolvimentos\\NetCore\\CursoMVC-Carrefour\\CursoMVC-Carrefour.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edgar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
