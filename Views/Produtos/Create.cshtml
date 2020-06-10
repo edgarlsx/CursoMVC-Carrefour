@@ -24,10 +24,7 @@
             </div>
             <div class="form-group">
                 <label asp-for="CategoriaId" class="control-label"></label>
-                @*@{foreach (int c in ViewBag.CategoriaId.Length)
-                    <select asp-for="CategoriaId" class="form-control" asp-items="ViewBag.CategoriaId[0].Text"></select>
-                    }*@
-                <select asp-for="CategoriaId" class="form-control" asp-items="ViewBag.CategoriaId[0].Text"></select>
+                <select asp-for="CategoriaId" class="form-control" asp-items="ViewBag.CategoriaId"></select>
             </div>
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
