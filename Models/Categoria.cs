@@ -14,6 +14,6 @@ namespace CursoMVC_Carrefour.Models
         [Required(ErrorMessage ="A Descrição é Obrigatória.")]
         public string Descricao { get; set; }
 
-        public List<Produto> Produtos { get; set; }
+        //public List<Produto> Produtos { get; set; }
     }
 }

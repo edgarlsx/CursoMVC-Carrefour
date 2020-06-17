@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoMVC-Carrefour", "CursoMVC-Carrefour.csproj", "{EF3684C2-80EA-4985-8AF9-2B8AAEAEBA1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoMVC-Carrefour", "CursoMVC-Carrefour.csproj", "{EF3684C2-80EA-4985-8AF9-2B8AAEAEBA1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoAPI-Carrefour", "..\CursoAPI-Carrefour\CursoAPI-Carrefour.csproj", "{AE6EE983-B577-469D-B428-792EAA9429F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{EF3684C2-80EA-4985-8AF9-2B8AAEAEBA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF3684C2-80EA-4985-8AF9-2B8AAEAEBA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF3684C2-80EA-4985-8AF9-2B8AAEAEBA1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE6EE983-B577-469D-B428-792EAA9429F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE6EE983-B577-469D-B428-792EAA9429F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE6EE983-B577-469D-B428-792EAA9429F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE6EE983-B577-469D-B428-792EAA9429F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
